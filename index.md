@@ -1,4 +1,5 @@
-# Hey there, I'm Josh. 
+# Home
+## Hey there, I'm Josh. 
 I go by Morpheus636 across the internet, but you're welcome to call me 
 Morpheus, Morph or Josh (Honestly, I don't care what you call me as long as I
 know you're talking to me. What's in a name?)
@@ -14,7 +15,7 @@ This blog is a place for me to talk about all my random hobbies, showcase
 some of my work, and show off some of other people's projects that I enjoy
 using.
 
-## Getting in contact with me.
+## Contacting Me:
 I moderate a 
 couple of Discord servers, including 
 [Python_Practice](https://discord.gg/bWf3y287S5) (a python programming and
