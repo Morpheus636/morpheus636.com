@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: Page
 ---
 <style>
     button{
