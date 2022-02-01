@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: Page
 ---
 <style>
     button{
@@ -24,20 +25,12 @@ a gamer (at least when I have time).
 
 This blog is a place for me to talk about all my random hobbies, showcase
 some of my work, and show off some of other people's projects that I enjoy
-using.
+using. There is no comments section because I wouldn't check it 
+if there was one, but if you've got something to tell me, you can shoot me a 
+message or tag me on any of the platforms listed below, and I'll see it pretty 
+quickly.
 
 # Contacting Me:
-I moderate a 
-couple of Discord servers, including 
-[Python_Practice](https://discord.gg/bWf3y287S5) (a python programming and
-technology-focused community) and 
-[The Cult of Theta](https://invite.gg/thetavr) (a VR-focused community
-specifically about Onward). If you want to come hang out
-with me and chat, those are the places to do so. Other ways to contact me 
-are linked below, and in the footer.
-
-Put in the linktree-style thing here
-
 <button onclick="location.href='https://twitter.com/morpheus636'" type="button">Twitter</button>
 
 <button onclick="location.href='https://instagram.com/morpheus636'" type="button">Instagram</button>
@@ -47,3 +40,10 @@ Put in the linktree-style thing here
 <button onclick="location.href='https://github.com/morpheus636'" type="button">GitHub</button>
 
 <button onclick="location.href='https://www.buymeacoffee.com/morpheus636'" type="button">Buy Me a Coffee</button>
+
+If you're looking to hang out and chat with me, Discord is the right place
+to be. I moderate in
+[Python_Practice](https://discord.gg/bWf3y287S5) (a python programming and
+technology-focused community) and 
+[The Cult of Theta](https://invite.gg/thetavr) (a community focused on the VR game Onward), so you're welcome to stop by in either of those
+servers.
