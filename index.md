@@ -24,6 +24,8 @@ I'm a full-time Ubuntu user, and I'm a lover of all things FOSS. I'm also an
 amateur photographer, mechanical keyboard and PC hardware entheusiest, and
 a gamer (at least when I have time).
 
+I'm also the founder of [JMT](https://joshinshaker.com) which I use to house my commercial software projects to keep all of my personal accounts all FOSS all the time.
+
 This blog is a place for me to talk about all my random hobbies, showcase
 some of my work, and show off some of other people's projects that I enjoy
 using. There is no comments section because I wouldn't check it
