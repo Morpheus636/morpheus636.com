@@ -24,5 +24,3 @@ technology-focused community) and
 specifically about Onward). If you want to come hang out
 with me and chat, those are the places to do so. Other ways to contact me 
 are linked in the footer.
-
-fixme
