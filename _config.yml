@@ -21,10 +21,6 @@ instagram_username: "morpheus636"
 theme: "minima"
 
 rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
     
 plugins:
   - jekyll-feed
