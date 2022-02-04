@@ -13,4 +13,4 @@ title: Projects
 </style>
 
 # My FOSS Projects
-<button onclick="location.href='/projects/redownload" type="button">Redownload</button>
+<button onclick="window.location.href='/projects/redownload" type="button">Redownload</button>
