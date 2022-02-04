@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /projects/redownload
+exclude: true
 ---
 # Redownload
 
