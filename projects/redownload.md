@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /projects/redownload
-title: ReDownload
 ---
-# ReDownload
+# Redownload
 
-## All blog posts about ReDownload
+## All blog posts about Redownload
   <div class="archive-group">
-    {% for post in site.categories["Gadgets"] %}
+    {% for post in site.categories["Redownload"] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
