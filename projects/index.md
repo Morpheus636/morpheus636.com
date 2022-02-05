@@ -16,4 +16,4 @@ title: Projects
 <button onclick="location.href='/projects/redownload'" type="button">Redownload</button>
 
 # FOSS Projects I Contribute To
-<button onclick="location.href='https://github.com/elliotnash/bluebubbles_py'" type="button">BlueBubbles.Py</button>
+<button onclick="location.href='https://github.com/elliotnash/bluebubbles_py'" type="button">Bluebubbles_py</button>
