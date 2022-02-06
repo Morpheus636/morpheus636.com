@@ -43,6 +43,8 @@ quickly.
 
 <button onclick="location.href='https://github.com/morpheus636'" type="button">GitHub</button>
 
+<button onclick="location.href='https://discord.gg/5gCQHxz5XA'" type="button">Discord Server</button>
+
 <button onclick="location.href='https://www.buymeacoffee.com/morpheus636'" type="button">Buy Me a Coffee</button>
 
 If you're looking to hang out and chat with me, Discord is the right place
