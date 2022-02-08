@@ -14,6 +14,7 @@ title: Projects
 
 # My FOSS Projects
 <button onclick="location.href='/projects/redownload'" type="button">Redownload</button>
+
 <button onclick="location.href='/projects/desktop-scripts'" type="button">Desktop Scripts</button>
 
 # FOSS Projects I Contribute To
