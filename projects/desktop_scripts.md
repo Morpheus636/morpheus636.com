@@ -15,8 +15,8 @@ My desktop scripts consist of 2 github repositories that serve different purpose
 
 - `desktop_config` is a set of BASH scripts which I've written to make configuring my workstation simple, by running one script, it will install all my regularly used software, and update various settings and config files to exactly what I expect. It also serves the purpose of keeping my config in sync between all my devices.
 
-<button onclick="location.href='https://github.com/morpheus636/desktop_utils" type="button">View desktop_utils on GitHub</button>
-<button onclick="location.href='https://github.com/morpheus636/desktop_config" type="button">View desktop_config on GitHub</button>
+<button onclick="location.href='https://github.com/morpheus636/desktop_utils'" type="button">View desktop_utils on GitHub</button>
+<button onclick="location.href='https://github.com/morpheus636/desktop_config'" type="button">View desktop_config on GitHub</button>
 
 ### Blog posts about my Desktop Scripts
   <div class="archive-group">

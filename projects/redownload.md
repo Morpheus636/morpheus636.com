@@ -14,7 +14,7 @@ Redownload is a utility for downloading audio files from [Relisten](https://reli
 
 Redownload is still in active development, and is in a pre-release state. Redownload's GitHub repository, as well as all my blog posts about Redownload, are linked below.
 
-<button onclick="location.href='https://github.com/morpheus636/redownload" type="button">View Redownload on GitHub</button>
+<button onclick="location.href='https://github.com/morpheus636/redownload'" type="button">View Redownload on GitHub</button>
 
 ### Blog posts about Redownload
   <div class="archive-group">
