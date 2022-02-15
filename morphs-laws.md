@@ -6,5 +6,5 @@ permalink: /morphs-laws
 1. People are stupid.
 2. People are assholes. 
 3. The user is always lying, even if they don't know it.
-4. No matter how weird it is, someone is into it.
+4. No matter how weird it is, it's someone's hobby.
 5. No matter how niche it is, there are memes about it out there somewhere.
