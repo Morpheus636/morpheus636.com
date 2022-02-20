@@ -15,7 +15,7 @@ Zeal CLI is a command-line-interface for managing [Zeal](https://zealdocs.org/) 
 Just like Zeal, Zeal_CLI sources docsets from [Dash](https://kapeli.com/dash). Special thanks to Dash's developer, [Kapeli](https://github.com/Kapeli) for granting me permission to use their docsets.
 
 
-<button onclick="location.href='https://github.com/morpheus636/zeal_cli'" type="button">View Redownload on GitHub</button>
+<button onclick="location.href='https://github.com/morpheus636/zeal_cli'" type="button">View Zeal CLI on GitHub</button>
 
 ### Blog posts about Zeal CLI
   <div class="archive-group">
