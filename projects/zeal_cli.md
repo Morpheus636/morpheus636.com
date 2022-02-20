@@ -19,7 +19,7 @@ Just like Zeal, Zeal_CLI sources docsets from [Dash](https://kapeli.com/dash). S
 
 ### Blog posts about Zeal CLI
   <div class="archive-group">
-    {% for post in site.categories["Zeal CLI"] %}
+    {% for post in site.categories["Zeal-CLI"] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
