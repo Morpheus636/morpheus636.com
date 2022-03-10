@@ -17,6 +17,8 @@ title: Projects
 
 <button onclick="location.href='/projects/zeal-cli'" type="button">Zeal CLI</button>
 
+<button onclick="location.href='/projects/pyautomations'" type="button">PyAutomations</button>
+
 <button onclick="location.href='/projects/desktop-scripts'" type="button">Desktop Scripts</button>
 
 # FOSS Projects I Contribute To
