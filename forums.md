@@ -1,6 +1,5 @@
 ---
 permalink: /forum/
-group: navigation
 ---
 <!DOCTYPE html>
 <meta charset="utf-8">
