@@ -1,5 +1,5 @@
 ---
-permalink: /forum/
+permalink: /forums/
 title: Forum
 ---
 <meta charset="utf-8">
