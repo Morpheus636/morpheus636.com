@@ -1,5 +1,6 @@
 ---
 permalink: /forum/
+title: Forum
 ---
 <!DOCTYPE html>
 <meta charset="utf-8">
