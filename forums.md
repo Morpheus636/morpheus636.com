@@ -1,6 +1,6 @@
 ---
 permalink: /forums/
-title: Forus
+title: Forums
 ---
 <meta charset="utf-8">
 <title>Redirecting to the Morpheus636 Forums</title>
