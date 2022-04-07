@@ -25,16 +25,10 @@ title: Home
 
 <button onclick="location.href='https://www.buymeacoffee.com/morpheus636'" type="button">Buy Me a Coffee</button>
 
-I moderate in
-[Python_Practice](https://discord.gg/bWf3y287S5) (a python programming and
-technology-focused community) and
-[The Cult of Theta](https://invite.gg/thetavr) (a community focused on the VR game Onward), so you're welcome to stop by in either of those
-servers.
-
+<hl/>
 
 # About
-## Josh Levin
-### @Morpheus636
+## Josh Levin - @Morpheus636
 
 I'm a high school student with a lot of hobbies.
 Right now, the little bit of time I have is focused on my programming projects,
@@ -44,11 +38,11 @@ and PC hardware entheusiest, and a gamer (when time allows).
 I love all things Free and Open-Source, including linux. My daily driver OS
 is Ubuntu 20.04 with some customizations.
 
-## Programming Skills
+### Programming Skills
 I'm an advanced Python developer, primarily focused on CLI utilities and backend
 web development. I also have minor experience with C++, JavaScript, Java, and Dart.
 
 My other experience includes Docker, PostgreSQL, and advanced Linux and BASH usage.
 
-## Portfolio
+### Portfolio
 My portfolio can be found on [the projects page](/projects)
