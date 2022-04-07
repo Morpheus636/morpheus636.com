@@ -11,29 +11,7 @@ title: Home
     }
 </style>
 
-# Hey there, I'm Josh.
-
-I go by Morpheus636 across the internet, but you're welcome to call me
-Morpheus, Morph or Josh (Honestly, I don't care what you call me as long as I
-know you're talking to me. What's in a name?)
-
-I'm a high school student with too many hobbies.
-Right now, a lot of my attention is turned towards various programming
-projects, which I tend to jump between as I get tired of one of them.
-I'm a full-time Ubuntu user, and I'm a lover of all things FOSS. I'm also an
-amateur photographer, mechanical keyboard and PC hardware entheusiest, and
-a gamer (at least when I have time).
-
-I'm also the founder of [JMT](https://joshinshaker.com) which I use to house my commercial software projects to keep all of my personal accounts all FOSS all the time.
-
-This blog is a place for me to talk about all my random hobbies, showcase
-some of my work, and show off some of other people's projects that I enjoy
-using. There is no comments section because I wouldn't check it
-if there was one, but if you've got something to tell me, you can shoot me a
-message or tag me on any of the platforms listed below, and I'll see it pretty
-quickly.
-
-# Contacting Me:
+# Socials and Contact
 
 <button onclick="location.href='https://twitter.com/morpheus636'" type="button">Twitter</button>
 
@@ -47,9 +25,30 @@ quickly.
 
 <button onclick="location.href='https://www.buymeacoffee.com/morpheus636'" type="button">Buy Me a Coffee</button>
 
-If you're looking to hang out and chat with me, Discord is the right place
-to be. I moderate in
+I moderate in
 [Python_Practice](https://discord.gg/bWf3y287S5) (a python programming and
 technology-focused community) and
 [The Cult of Theta](https://invite.gg/thetavr) (a community focused on the VR game Onward), so you're welcome to stop by in either of those
 servers.
+
+
+# About
+## Josh Levin
+### @Morpheus636
+
+I'm a high school student with a lot of hobbies.
+Right now, the little bit of time I have is focused on my programming projects,
+but I'm also a student journalist, amateur photographer, mechanical keyboard
+and PC hardware entheusiest, and a gamer (when time allows). 
+
+I love all things Free and Open-Source, including linux. My daily driver OS
+is Ubuntu 20.04 with some customizations.
+
+## Programming Skills
+I'm an advanced Python developer, primarily focused on CLI utilities and backend
+web development. I also have minor experience with C++, JavaScript, Java, and Dart.
+
+My other experience includes Docker, PostgreSQL, and advanced Linux and BASH usage.
+
+## Portfolio
+My portfolio can be found on [the projects page](/projects)
