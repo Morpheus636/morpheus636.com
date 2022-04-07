@@ -12,6 +12,11 @@ exclude: true
 # PyAutomations
 PyAutomations is a framework for writing automations using python and hosting them in replit.
 
+## Technologies
+- Python 3
+- Flask
+- Schedule
+
 <button onclick="location.href='https://github.com/morpheus636/PyAutomations'" type="button">View PyAutomations on GitHub</button>
 
 ### Blog posts about PyAutomations
