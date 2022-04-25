@@ -36,3 +36,6 @@ defaults:
       type: post
     values:
       tags: [Other]
+      
+# Google Analytics
+google_analytics: UA-226933653-1
