@@ -18,7 +18,7 @@ instagram_username: "morpheus636"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-+ remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 rss: rss
 
