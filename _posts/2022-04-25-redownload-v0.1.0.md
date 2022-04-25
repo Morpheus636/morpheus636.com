@@ -6,7 +6,7 @@ categories: Redownload
 Good news! Redownload is no longer in alpha and is ready for it's first beta release. 
 
 ## What does this mean?
-It means that our minimum viable product, the initial CLI, is at a stable point and we will begin
+It means that our first simplified version, consisting of a basic CLI, is at a point where we will consider it stable and begin
 working to develop additional features, like support for hosts other than archive.org, and a GUI so
 users don't have to use a command line at all. These additional features will be included in the first "major release",
 v1.0.0.
