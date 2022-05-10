@@ -2,6 +2,9 @@
 layout: page
 permalink: /projects/redownload
 exclude: true
+title: Redownload
+description: |
+  A tool for downloading audio files from Relisten
 ---
 <style>
     button{

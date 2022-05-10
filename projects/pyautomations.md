@@ -2,6 +2,9 @@
 layout: page
 permalink: /projects/pyautomations
 exclude: true
+title: pyautomations
+description: |
+  A framework for automatically running python scripts hosted in replit.
 ---
 <style>
     button{
