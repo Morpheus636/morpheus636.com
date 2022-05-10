@@ -2,6 +2,8 @@
 exclude: true
 permalink: /morphs-laws
 ---
+<meta name="robots" content="noindex">
+
 # Morph's Laws
 1. People are stupid.
 2. People are assholes. 
