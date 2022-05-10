@@ -2,6 +2,10 @@
 layout: page
 permalink: /projects/zeal-cli
 exclude: true
+title: Zeal CLI
+description: |
+  A command-line-interface for managing Zeal docsets.
+
 ---
 <style>
     button{

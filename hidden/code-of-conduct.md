@@ -2,6 +2,8 @@
 permalink: /code-of-conduct
 exclude: true
 ---
+<meta name="robots" content="noindex">
+
 # Contributor Covenant Code of Conduct
 This code of conduct applies to any community that I (Josh Levin / Morpheus636)
 am personally responsible for running, operating, and maintaining. This code of

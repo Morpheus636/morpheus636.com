@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Blog Archive
+description: |
+  The archive of all past blog posts, arranged by category in chronological order.
 permalink: /archive
 ---
 
