@@ -1,7 +1,7 @@
 ---
 permalink: /docs/
 layout: redirect
-title: docs
+title: Docs
 ---
 <meta name="robots" content="noindex">
 <meta charset="utf-8">
