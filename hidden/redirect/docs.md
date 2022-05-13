@@ -1,6 +1,5 @@
 ---
 permalink: /docs/
-exclude: true
 layout: redirect
 ---
 <meta name="robots" content="noindex">
