@@ -19,7 +19,7 @@ have to do is provide an archive.org link instead of a relisten link.
 The builds for this version can be found [Here](https://github.com/Morpheus636/redownload/releases/tag/v0.1.0), and usage and installation documentation can be found [Here](https://github.com/Morpheus636/redownload/blob/v0.1.0/docs/usage.md). Contact me through my [Discord Server](https://discord.morpheus636.com) or [Forums](https://morpheus636.com/forums) for help and feedback, or open a [GitHub Issue](https://github.com/Morpheus636/redownload/issues) in the repository for bugs and feature requests.
 
 ## Patch Notes for Redownload v0.1.0
-The following changes were implimented between v1.1.0a2 and the current release:
+The following changes were implimented between v0.1.0a2 and the current release:
 - Fixed a bug which caused redownload to overwrite a file if you downloaded another with the same name - it now throws an error.
 - Added a -v or --version flag to the CLI's syntax.
 
