@@ -19,6 +19,8 @@ description: |
 
 <button onclick="location.href='https://twitter.com/morpheus636'" type="button">Twitter</button>
 
+<button onclick="location.href='https://mastodon.social/web/@morpheus636'" type="button">Mastodon</button>
+
 <button onclick="location.href='https://instagram.com/morpheus636'" type="button">Instagram</button>
 
 <button onclick="location.href='https://twitch.tv/morpheus636'" type="button">Twitch</button>
