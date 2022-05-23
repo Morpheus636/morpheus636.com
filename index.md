@@ -36,27 +36,10 @@ description: |
 # About
 ## Josh Levin - @Morpheus636
 
-I'm a high school student with a lot of hobbies.
-Right now, the little bit of time I have is focused on my programming projects,
-but I'm also a student journalist, amateur photographer, mechanical keyboard
-and PC hardware entheusiest, and a gamer (when time allows). 
+I'm a 16-year-old high school student with too many hobbies and not enough time.
+Most of that time is spent on programming and journalism, but I'm also an
+ametueur photographer and a general technology entheusiest. I'm a lover of
+ all things Free and Open-Source, including Linux, and I daily-drive Ubuntu 20.04.
 
-I love all things Free and Open-Source, including linux. My daily driver OS
-is Ubuntu 20.04 with some customizations.
-
-## Programming Skills
-### Languages:
-- Python (Advanced)
-- C++ (Intermediate)
-- JavaScript (Beginner)
-- Java (Beginner)
-- Dart (Beginner)
-
-### Technologies:
-- Linux (Advanced)
-  - Including BASH 
-- Docker (Intermediate)
-- PostgreSQL (Beginner)
-
-## Portfolio
-My current projects can be found [here](/projects)
+My resume can be found [here](/resume) and a list of my current projects (with links)
+can be found [here](/projects)
