@@ -4,6 +4,8 @@ title: Resume
 exclude: true
 ---
 ## Josh Levin
+<i class="ai-envelope" />morpheus636@morpheus636.com
+<br /><i class="ai-phone" /> 216-232-6353
 
 ### Experience
 **The Shakerite**
