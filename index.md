@@ -45,10 +45,18 @@ I love all things Free and Open-Source, including linux. My daily driver OS
 is Ubuntu 20.04 with some customizations.
 
 ## Programming Skills
-I'm an advanced Python developer, primarily focused on CLI utilities and backend
-web development. I also have minor experience with C++, JavaScript, Java, and Dart.
+### Languages:
+- Python (Advanced)
+- C++ (Intermediate)
+- JavaScript (Beginner)
+- Java (Beginner)
+- Dart (Beginner)
 
-My other experience includes Docker, PostgreSQL, and advanced Linux and BASH usage.
+### Technologies:
+- Linux (Advanced)
+  - Including BASH 
+- Docker (Intermediate)
+- PostgreSQL (Beginner)
 
 ## Portfolio
-My portfolio can be found on [the projects page](/projects)
+My current projects can be found [here](/projects)
