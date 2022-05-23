@@ -22,7 +22,9 @@ exclude: true
 
 **Technologies**
 - Linux (Advanced)
-  - Including BASH 
+  - Including BASH
+- Git (Advanced)
+- GitHub Actions (Advanced)
 - Docker (Intermediate)
 - PostgreSQL (Beginner)
 
