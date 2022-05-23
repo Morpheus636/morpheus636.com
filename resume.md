@@ -15,6 +15,8 @@ exclude: true
 ### Skills
 **Programming Languages**
 - Python (Advanced)
+  - Django (Intermediate)
+  - SQLAlchemy + Alembic (Beginner)
 - C++ (Intermediate)
 - JavaScript (Beginner)
 - Java (Beginner)
