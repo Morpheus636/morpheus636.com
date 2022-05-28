@@ -12,7 +12,6 @@ description: |
     }
 </style>
 
-# Redownload
 Redownload is a utility for downloading audio files from [Relisten](https://relisten.com), a streaming service for concert recordings. The user can provide Redownload with a link to a track on Relisten, and Redownload will find the source of the file and download it to a specified location.
 
 ## Technologies

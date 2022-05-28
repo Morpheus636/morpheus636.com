@@ -13,7 +13,6 @@ description: |
     }
 </style>
 
-# Zeal CLI
 Zeal-CLI is a command-line-interface for managing [Zeal](https://zealdocs.org/) docsets on Linux. It's syntax is roughly based on the basic syntax of the `apt` package manager, because Zeal CLI is basically a package manager for docsets.
 
 
