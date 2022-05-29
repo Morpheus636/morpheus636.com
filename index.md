@@ -33,6 +33,9 @@ description: |
 
 <hl/>
 
+I can also be found hanging around the [Python_Practice Discord](https://discord.gg/GjvtEnye76) 
+where I am a moderator. 
+
 # About
 ## Josh Levin - @Morpheus636
 
