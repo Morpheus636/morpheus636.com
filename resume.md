@@ -9,8 +9,8 @@ exclude: true
 
 ### Experience
 **The Shakerite**
-<br />Investigations Reporter (2021 - 2022)
 <br />Web Design Editor (2022 - Present)
+<br />Investigations Reporter (2021 - 2022)
 
 <hr />
 

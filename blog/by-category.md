@@ -1,11 +1,9 @@
 ---
-layout: page
-title: Blog Archive
-description: |
-  The archive of all past blog posts, arranged by category in chronological order.
-permalink: /archive
+permalink: /blog/by-category
+title: Blog
+exclude: true
 ---
-
+{% include blog-menu.html %}
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
