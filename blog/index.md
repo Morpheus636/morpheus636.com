@@ -1,3 +1,8 @@
+---
+permalink: /blog
+title: Blog
+---
+{% include blog-menu.html %}
 <div>
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
