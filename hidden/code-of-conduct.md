@@ -1,15 +1,9 @@
 ---
+title: Contributor Covenant Code of Conduct
 permalink: /code-of-conduct
 exclude: true
 ---
 <meta name="robots" content="noindex">
-
-# Contributor Covenant Code of Conduct
-This code of conduct applies to any community that I (Josh Levin / Morpheus636)
-am personally responsible for running, operating, and maintaining. This code of
-conduct will be linked everywhere that it applies or is enforced,
-including but not limited to: discussions, issues, and pull-requests in any of my
-GitHub repos and my Discord Server (Hub 636)
 
 ## Our Pledge
 
@@ -60,6 +54,8 @@ not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
 ## Scope
+This Code of Conduct applies to any community maintained by Morpheus636. This code of
+conduct will be linked, when possible, wherever it applies.
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
@@ -70,9 +66,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement through a DM
-to any member of the moderation team, or a ticket in my discord server at
-https://discord.morpheus636.com
+reported to the community leaders responsible for enforcement via a Direct Message
+to Morpheus636#7922 on Discord or an email to CONDUCT@morpheus636.com
 
 All complaints will be reviewed and investigated promptly and fairly.
 
