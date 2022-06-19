@@ -5,7 +5,7 @@ exclude: true
 ---
 ## Josh Levin
 <i class="ai-envelope"></i> morpheus636@morpheus636.com
-<br /><i class="ai-phone"></i> 216-232-6353
+<br /><i class="ai-phone"></i> 216-307-3554
 
 ### Experience
 **The Shakerite**
