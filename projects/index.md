@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects
-title: Projects
+title: Portfolio
 description: |
     Links to all of Morpheus636's projects.
 ---
