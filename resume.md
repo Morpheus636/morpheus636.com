@@ -1,7 +1,6 @@
 ---
 permalink: /resume
 title: Resume
-exclude: true
 ---
 ## Josh Levin
 ### Contact
