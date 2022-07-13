@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /projects/redownload
+permalink: /portfolio/redownload
 exclude: true
 title: Redownload
 description: |
-  A tool for downloading audio files from Relisten
+  A command-line utility for downloading audio files from Relisten
 ---
 <style>
     button{

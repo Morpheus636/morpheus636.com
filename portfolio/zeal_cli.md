@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /projects/zeal-cli
+permalink: /portfolio/zeal-cli
 exclude: true
 title: Zeal CLI
 description: |
-  A command-line-interface for managing Zeal docsets.
+  A CLI for managing offline documentation for Zeal.
 
 ---
 <style>
