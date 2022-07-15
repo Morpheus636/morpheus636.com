@@ -29,7 +29,7 @@ description: |
     class="pfp">
 
     <h2 style="text-align: center; margin-bottom: 2px"> Josh Levin </h2>
-    <p style="text-align: center;"> @Morpheus636 </p>
+    <link style="text-align: center;" href="/socials"> @Morpheus636 </p>
 </div>
 
 
