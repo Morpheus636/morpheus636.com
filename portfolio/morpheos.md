@@ -12,7 +12,8 @@ description: |
     }
 </style>
 
-Description
+MorpheOS is a simple operating system developed for the purpose of learning 
+low-level programming. It is still very much a work-in-progress.
 
 
 ## Technologies
