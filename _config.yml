@@ -5,6 +5,7 @@ description: |
 
 # Email / Social media user names used by social.html and footer.html:
 email: "morpheus636@morpheus636.com"
+phone: 216-307-3554
 social_links:
   twitter: Morpheus636
   instagram: Morpheus636
@@ -19,7 +20,6 @@ social_links:
   mastodon:
     - username: Morpheus636
       instance: mastodon.social
-  phone: 216-307-3554
   discord_user: Morpheus636#7922
   discord_link: https://discord.morpheus636.com
 

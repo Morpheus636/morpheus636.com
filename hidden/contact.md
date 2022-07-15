@@ -87,4 +87,4 @@ Mastodon
 
 **Email:** [{{ site.email }}](mailto:{{ site.email }})
 <br/>**Discord:** [{{ social.discord_user }}]({{ social.discord_link }})
-<br/>**Phone:** {{ social.phone }}
+<br/>**Phone:** {{ site.phone }}
