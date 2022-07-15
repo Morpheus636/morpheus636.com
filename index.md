@@ -17,7 +17,7 @@ description: |
         margin-left: auto;
         margin-right: auto;
     }
-    @media screen and (max-width: 700px) {
+    @media screen and (max-width: 600px) {
         div.pfp-box {
             float: none;       
         }
