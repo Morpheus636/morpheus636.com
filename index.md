@@ -1,9 +1,7 @@
 ---
 title: Home
 description: |
-    The home page of the Morpheus636 Website. Information about 
-    Morpheus636, including his portfolio, and links to his socials 
-    can be found here.
+    The home page of the Morpheus636 Website.
 ---
 <style>
     div.pfp-box {
