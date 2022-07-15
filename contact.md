@@ -2,6 +2,7 @@
 title: Contact
 permalink: /contact
 layout: page
+exclude: true
 ---
 
 <style>
