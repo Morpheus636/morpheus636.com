@@ -1,23 +1,29 @@
 title: "Morpheus636"
 author: "Josh Levin"
-description: "" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: |  
+  Personal website of Josh Levin (Morpheus636)
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
+# Email / Social media user names used by social.html and footer.html:
 email: "morpheus636@morpheus636.com"
-twitter_username: "morpheus636"
-github_username: "morpheus636"
-#linkedin_username: "linkedinuser"
-#facebook_username: username
-#flickr_username: username
-instagram_username: "morpheus636"
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+phone: 216-307-3554
+social_links:
+  twitter: Morpheus636
+  instagram: Morpheus636
+  github:  Morpheus636
+  stackoverflow_name: Morpheus636
+  stackoverflow_id: "13800487"
+  twitch: Morpheus636
+  youtube_channel: UCQwbG2f_nyPfT7-lF-3lukA
+  youtube_channel_name: Morpheus636
+  reddit: Morpheus636_
+  buymeacoffee: Morpheus636
+  mastodon:
+    - username: morpheus636
+      instance: mastodon.social
+  discord_user: Morpheus636#7922
+  discord_link: https://discord.morpheus636.com
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
+
 theme: minima
 
 rss: rss
