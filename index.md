@@ -31,7 +31,15 @@ description: |
 </div>
 
 
-Hi, I'm Josh. I'm a 16-year-old high school student with too many hobbies and not enough time.
-I'm a student journalist, working as an editor for [The Shakerite](https://shakerite.com). When I'm not doing that, I spend my time programming and maintaining various [open-source projects](/projects), as well as taking pictures and moderating for various communities across the internet.
+Hi, I'm Josh. I'm a high school junior (Shaker '24) with lots of hobbies and not enough time.
+I'm a student journalist, working as an editor for [The Shakerite](https://shakerite.com). 
+When I'm not working on the news, I spend lots of time programming and maintaining [open-source projects](/projects),
+as well as taking pictures and moderating for communities across the internet.
 
-Click [here](/resume) to view my resume for more information about me. My contact info can be found [here](/contact).
+I consider myself a "maker", although I've never called myself a "creative". I enjoy the technical side of making,
+which is why I find myself attracted to backend development over frontend, journalistic writing over narrative writing,
+photography over drawing, and engineering over model making. Nevertheless, I've always enjoyed making things, whether it be with
+my hands in my workshop or my keyboard at my desk. I've always liked figuring out how things work and utilizing that knowledge for my own projects. 
+I learn best by doing and I'm motivated most by the lesson that comes with amy solution.
+
+Click [here](/resume) to view my resume. My contact info can be found [here](/contact).
