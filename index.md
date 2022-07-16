@@ -37,9 +37,9 @@ When I'm not working on the news, I spend lots of time programming and maintaini
 as well as taking pictures and moderating for communities across the internet.
 
 I consider myself a "maker", although I've never called myself a "creative". I enjoy the technical side of making,
-which is why I find myself attracted to backend development over frontend, journalistic writing over narrative writing,
+which is why I find myself attracted to backend development over frontend, journalistic writing over narrative,
 photography over drawing, and engineering over model making. Nevertheless, I've always enjoyed making things, whether it be with
 my hands in my workshop or my keyboard at my desk. I've always liked figuring out how things work and utilizing that knowledge for my own projects. 
-I learn best by doing and I'm motivated most by the lesson that comes with amy solution.
+I learn best by doing and I'm most motivated by finding the solution and learning a lesson in the process. 
 
 Click [here](/resume) to view my resume. My contact info can be found [here](/contact).
