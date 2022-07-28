@@ -34,12 +34,12 @@ title: Resume
 
 ### Skills
 - Writing and Editing using AP (Associated Press) Newswriting Style
-- Quick decision-making
-- Designing and implementing efficient processes
+- Working and making decisions under pressure
 - Programming in the following languages:
   - Python (Advanced)
     - Django (Intermediate)
     - SQLAlchemy + Alembic (Beginner)
+  - HTML / CSS (Advanced)
   - C++ (Intermediate)
   - JavaScript (Beginner)
   - Java (Beginner)
