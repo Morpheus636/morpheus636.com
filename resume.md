@@ -20,7 +20,7 @@ title: Resume
 <br />Moderator (2021 - Present)
 
 **Python_Practice Discord Community**
-<br />[Link](https://discord.gg/bWf3y287S5)
+<br />[Link](https://python-practice-discord.github.io)
 <br />Moderator (2021 - Present)
 
 <hr />
