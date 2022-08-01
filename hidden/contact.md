@@ -75,7 +75,7 @@ exclude: true
 {%- for mst in social.mastodon -%}
 {%- if mst.username and mst.instance -%}
 <button onclick="location.href='https://{{ mst.instance | cgi_escape | escape}}/@{{mst.username}}'" type="button">
-Mastodon
+<i class="ai-mastodon-fill"></i>Mastodon
 </button>
 {%- endif -%}
 {%- endfor -%}
